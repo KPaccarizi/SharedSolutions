@@ -42,5 +42,7 @@ Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 - [Build your own head](Solutions/challenge-head.md)
 - [Build your own jq](Solutions/challenge-jq.md)
 - [Build your own Pong](Solutions/challenge-pong.md)
+- [Build your own Tetris](Solutions/challenge-tetris.md)
+
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
